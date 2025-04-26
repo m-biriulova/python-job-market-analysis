@@ -1,0 +1,6 @@
+pandas
+matplotlib
+wordcloud
+beautifulsoup4
+selenium
+openpyxl
